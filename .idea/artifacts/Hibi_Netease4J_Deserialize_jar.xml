@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hibi-Netease4J-Deserialize:jar">
+    <output-path>$PROJECT_DIR$/lib</output-path>
+    <root id="archive" name="Hibi-Netease4J-Deserialize.jar">
+      <element id="module-output" name="Hibi-Netease4J-Deserialize" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../.IntelliJIdea/.m2/repository/com/google/code/gson/gson/2.10/gson-2.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
